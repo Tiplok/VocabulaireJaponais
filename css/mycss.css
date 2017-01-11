@@ -1,0 +1,23 @@
+
+.font-size35px {
+  font-size: 35px !important;
+}
+
+.font-size30px {
+  font-size: 30px !important;
+}
+
+.reveal table th, .reveal table td {
+  text-align: center;
+}
+
+.reveal {
+	font-family: "ＭＳ Ｐゴシック","MS PMincho", "Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-size: 47px;
+}
+
+.reveal section img {
+	background: none;
+	border: none;
+	box-shadow: none;
+}
