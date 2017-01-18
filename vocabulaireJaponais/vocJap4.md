@@ -1,4 +1,4 @@
-<section class="font-size35px" data-markdown>
+<section style="font-size: 35px;" data-markdown>
 
 
 ### Les formules de politesse
@@ -22,18 +22,18 @@ bonne nuit | おやすみ(なさい) | | o-yasumi (nasai) | nasai plus poli
 <img src="arrow-bot.png" height="64px" width="64px">
 
 </section>
-<section class="font-size30px" data-markdown>
+<section style="font-size: 31px" data-markdown>
 
 Français | Japonais | Kana | R&#0333;maji | Notes
 --------|----------|------|------|------
 enchanté | 初めまして | はじめまして | hajimemashite | la 1ère fois
-enchanté | どうぞ宜しくお願いします | どうぞよろしくおねがいします | d&#0333;zo yoroshiku o-negai shimasu |
-je vous en prie |  |  | d&#0333;zo | pour inviter quelqu'un à faire quelque chose
-bon appétit |  |  | itadakimasu | seulement quand on reçoit le repas
-excuse(z)-moi |  |  | sumimasen | utilisé avant de demander/déranger
-pardonne(z)-moi |  |  | gomen (nasai) | utilisé après avoir fait quelque chose de mal
-bon travail |  |  | o-tsukare-sama deshita |
-j'y vais / bonne journée |  |  | itte kimasu / itte rasshai | ils vont de pair
-je suis rentré / bon retour |  |  | tada ima / o-kaeri (nasai) | ils vont de pair
-bienvenue |  |  | irasshaimase / y&#0333;koso | le 1er plutôt pour les magasins
-je rentre |  |  | o-jama shimasu | quand on rentre chez quelqu'un d'autre
+enchanté | どうぞ宜しくお願いします | どうぞよろしく<br>おねがいします | d&#0333;zo yoroshiku<br>o-negai shimasu |
+je vous en prie | どうぞ |  | d&#0333;zo | pour inviter quelqu'un à faire quelque chose
+bon appétit | いただきます |  | itadakimasu | seulement quand on reçoit le repas
+excuse(z)-moi | すみません |  | sumimasen | utilisé avant de demander/déranger
+pardonne(z)-moi | ごめん(なさい) |  | gomen (nasai) | utilisé après avoir fait quelque chose de mal
+bon travail | お疲れ様でした | おつかれさまでした | o-tsukare-sama deshita | souvent utilisé
+j'y vais<br>bonne journée | いってきます<br>いってらっしゃい |  | itte kimasu / itte rasshai | ils vont de pair
+je suis rentré<br>bon retour | ただいま<br>おかえり(なさい) |  | tada ima / o-kaeri (nasai) | ils vont de pair
+bienvenue | いらっしゃいませ / ようこそ |  | irasshaimase / y&#0333;koso | le 1er plutôt pour les magasins
+je rentre | おじゃまします |  | o-jama shimasu | quand on rentre chez quelqu'un d'autre
