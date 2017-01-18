@@ -16,7 +16,7 @@ l'eau | 水 | みず | mizu |
 l'eau | 火 | ひ | hi | homophone au soleil
 la terre | 土 | つち | tsuchi | la matière (pas la planète)
 
-<img src="arrow-bot.png" height="64px" width="64px">
+<img src="./images/arrow-bot.png" height="64px" width="64px">
 
 </section>
 <section data-markdown>

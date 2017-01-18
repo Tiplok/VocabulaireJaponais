@@ -19,7 +19,7 @@ bonne nuit | おやすみ(なさい) | | o-yasumi (nasai) | nasai plus poli
 à demain | また明日 | またあした | mata ashita |　　
 
 <br/>
-<img src="arrow-bot.png" height="64px" width="64px">
+<img src="./images/arrow-bot.png" height="64px" width="64px">
 
 </section>
 <section style="font-size: 31px" data-markdown>

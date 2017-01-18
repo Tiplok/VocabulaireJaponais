@@ -16,7 +16,7 @@ la télévision | テレビ | terebi |
 l'appareil photo | カメラ | kamera |
 l'ordinateur / le PC | コンピュータ / パソコン | konpyuuta / pasokon |
 
-<img src="arrow-bot.png" height="64px" width="64px">
+<img src="./images/arrow-bot.png" height="64px" width="64px">
 
 </section>
 <section style="font-size: 50px;" data-markdown>
